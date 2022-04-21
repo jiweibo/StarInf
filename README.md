@@ -1,0 +1,2 @@
+# StarInf
+A useless trash.
